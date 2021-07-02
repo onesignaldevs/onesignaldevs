@@ -1,4 +1,4 @@
-- 👋 Hi! Our content can be found in [The OneSignal Org](https://github.com/onesignal).
+👋 Hi! If you've landed here, you're probablt looking for our code sample repos which can be found in [The OneSignal Org](https://github.com/onesignal).
 
 
 <!---
